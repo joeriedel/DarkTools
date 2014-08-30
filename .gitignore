@@ -1,0 +1,13 @@
+# contains files to ignore for this directory and all subdirectories
+*.gob
+*.suo
+*.sdf
+*.opensdf
+*.gob
+*.user
+Debug/*
+Release/*
+ipch/*
+GOB/Debug/*
+GOB/Release/*
+GOB/Extracted/*
